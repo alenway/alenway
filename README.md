@@ -86,7 +86,7 @@ I'm a passionate full-stack developer with a love for creating innovative soluti
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=narendra&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alenway&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
 </div>
 
 ---
@@ -94,7 +94,7 @@ I'm a passionate full-stack developer with a love for creating innovative soluti
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=narendra&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alenway&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
