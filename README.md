@@ -78,7 +78,7 @@ I'm a passionate full-stack developer with a love for creating innovative soluti
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendra&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alenway&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -115,7 +115,7 @@ I'm always interested in collaborating on innovative projects and meeting fellow
 
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
-  <img src="https://komarev.com/ghpvc/?username=narendra&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=alenway&style=for-the-badge&color=blue" alt="Profile Views" />
 
 </div>
 
