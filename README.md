@@ -125,3 +125,9 @@ I'm always interested in collaborating on innovative projects and meeting fellow
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
 </div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+</div>
