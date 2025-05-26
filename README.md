@@ -127,7 +127,30 @@ I'm always interested in collaborating on innovative projects and meeting fellow
 </div>
 
 ---
-
+<!-- Interactive Call to Action -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+
+  <h2>🤝 Let's Build Something Amazing Together!</h2>
+
+  <p><i>I'm always excited to collaborate on innovative projects and connect with fellow developers!</i></p>
+
+  <!-- Interactive Buttons -->
+
+[![Let's Chat](https://img.shields.io/badge/Let's%20Chat-💬-blue?style=for-the-badge&logo=telegram)](mailto:narendrasamtanidev@gmail.com)
+[![Collaborate](https://img.shields.io/badge/Collaborate-🤝-green?style=for-the-badge&logo=github)](#)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-💼-orange?style=for-the-badge&logo=handshake)](#)
+
+<br><br>
+
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
+
 </div>
+
+---
+
+<!-- Interactive Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+</div>
+
