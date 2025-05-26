@@ -154,3 +154,15 @@ I'm always interested in collaborating on innovative projects and meeting fellow
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 </div>
 
+---
+
+## test things
+
+<!-- Currently Coding -->
+![Coding Time](https://wakatime.com/badge/user/your-uuid.svg)
+
+<!-- Spotify Now Playing -->
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/username)
+
+<!-- Weather Widget -->
+![Weather](https://wttr.in/YourCity.png?width=600&height=300)
