@@ -85,9 +85,10 @@ I'm a passionate full-stack developer with a love for creating innovative soluti
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alenway&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
-</div>
+</p>
+
 
 ---
 
