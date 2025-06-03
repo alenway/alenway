@@ -103,12 +103,12 @@ I'm a passionate full-stack developer with a love for creating innovative soluti
 <tr>
 <td width="50%">
 
-**🚀 Project Alpha**
+**🚀 Modern Portfolio Website **
 
--   **Tech:** React, Node.js, MongoDB
--   **Features:** Real-time chat, AI integration
+-   **Tech:** HTML/Css, Next js, MongoDB
+-   **Features:** Portfolio website
 -   **Status:** 🟢 Live & Growing
--   [**Demo**](#) | [**Code**](#)
+-   [**Demo**](https://modernportfolio-jst3.vercel.app/) | [**Code**](https://github.com/alenway/modernportfolio)
 
 </td>
 <td width="50%">
