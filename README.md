@@ -145,8 +145,9 @@ I'm a passionate full-stack developer with a love for creating innovative soluti
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alenway&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=alenway&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
 
 ---
 
