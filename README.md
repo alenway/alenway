@@ -77,15 +77,6 @@ I'm a passionate full-stack developer focused on engineering innovative, high-pe
   <img src="https://streak-stats.demolab.com/?user=alenway&theme=tokyonight&hide_border=true&background=0d1117&ring=7AA2F7&fire=7AA2F7" alt="GitHub Streak" />
 </p>
 
----
-
-## 🐍 Contribution Journey
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alenway/alenway/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alenway/alenway/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/alenway/alenway/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
